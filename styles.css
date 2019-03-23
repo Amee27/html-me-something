@@ -1,0 +1,38 @@
+html {
+    margin-top: 50px;
+    margin-left: 400px;
+    padding-bottom: 50px;
+    padding-right: 350px;
+    
+}
+body {
+    font-family: Roboto;
+    background-color: lightblue;
+}
+.center {
+    font-family: courier;
+    color: purple;
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+h2 {
+    color: magenta;
+    font-family: Arial;
+}
+
+ul {
+    padding: 0;
+    color: green;
+}
+
+p {
+    color: green;
+    }
+
+#footer {
+    color: tomato;
+}
